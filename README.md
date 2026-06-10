@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Привет, я Сергей Чеботарев
 
-<!--
-**SadWeeek/SadWeeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** с опытом в VK и управлении розницей. Ищу позицию **стажёра или junior-аналитика данных**.
 
-Here are some ideas to get you started:
+📌 **GitHub:** [SadWeeek](https://github.com/SadWeeek)  
+📧 **Email:** sergeychebotarev96@mail.ru  
+💬 **Telegram:** [@Pandaren4ik](https://t.me/Pandaren4ik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Навыки и инструменты
+
+| Область | Технологии |
+|---------|-------------|
+| **Языки и анализ** | Python (pandas, matplotlib), SQL (оконные функции, CTE, JOIN) |
+| **Базы данных** | PostgreSQL, SQLite, DBeaver |
+| **BI и визуализация** | DataLens, Power BI, Excel (сводные таблицы, Power Query) |
+| **Инструменты** | Git, Docker, Jupyter Notebook |
+| **Продуктовая аналитика** | метрики, когорты, воронки (теория), A/B тесты (базовое) |
+
+---
+
+## 📊 Проекты
+
+### 1. Дашборд эффективности команд разметки
+[![DataLens](https://img.shields.io/badge/DataLens-дашборд-blue)](https://datalens.yandex/1hv0y2j7azj6l) [![GitHub](https://img.shields.io/badge/код-репозиторий-black)](https://github.com/SadWeeek/Dashboard-Efficiency-moderation-teams-)
+
+**Задача:** Проанализировать работу трёх команд (Альфа, Бета, Гамма) по объёму, скорости, ошибкам и дисциплине за май 2026.  
+**Результат:**  
+- Общий объём — 29 160 пабликов.  
+- Лидер по объёму — Гамма (9 910), лучшая точность — Альфа и Гамма (~0.8% ошибок).  
+- Команда Бета требует внимания (0.98% ошибок, выше среднего).  
+- Рекомендации: тренинг для Беты, план по «зелёным карточкам», добавление динамики.  
+
+**Стек:** DataLens, Pandas (очистка данных), Excel.
+
+### 2. Анализ продаж (Northwind DB)
+[![GitHub](https://img.shields.io/badge/код-репозиторий-black)](https://github.com/SadWeeek/Analysis-NORTHWIND-DB)
+
+**Задача:** Исследовать динамику продаж и выделить ключевые товары/категории.  
+**Результат:**  
+- Сезонный пик в декабре (+35% к среднему).  
+- Категория «Beverages» даёт 45% выручки.  
+- Рекомендация: увеличить закупки в этой категории перед праздниками и запустить кросс-продажи.
+-  
+**Стек:** Python (pandas, matplotlib), SQL (PostgreSQL).
+
+### 3. Сервис проверки контрагентов (counterparty-checker)
+[![GitHub](https://img.shields.io/badge/код-репозиторий-black)](https://github.com/SadWeeek/counterparty-checker) [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
+
+**Задача:** Автоматизировать проверку благонадёжности контрагентов через открытые источники (Федресурс).  
+**Результат:** Асинхронное веб-приложение на Sanic с кэшированием в SQLite, веб-интерфейсом и JSON API.  
+
+**Стек:** Python 3.11, aiohttp, BeautifulSoup, Sanic, SQLite.
+---
+
+## 💼 Опыт работы
+
+| Период | Место | Должность | Релевантные задачи |
+|--------|-------|-----------|---------------------|
+| Янв 2023 – н.в. | **VK** | Редактор контента | Анализ контента, подготовка отчётов в Excel, участие в кросс-командных проектах. Предложил 3 улучшения интерфейса (2 приняты). |
+| Март 2022 – Янв 2023 | **Винотека "Winebrothers"** | Кавист-управляющий | Анализ продаж в Excel, оптимизация закупок → рост продаж на 10% за 3 месяца. |
+
+---
+
+## 🎓 Образование и курсы
+
+- **Тихоокеанский государственный университет** – специалист, экономическая безопасность  
+- **VK Education** – «Прикладная аналитика данных»  
+- **Stepik** – «Поколение Python», «SQL для всех», «SQL для всех. Level up»  
+
+**Английский:** A2 (чтение технической документации)
+
+---
+
+## 🎯 Моя цель
+
+Получить позицию стажёра или junior-аналитика данных, где смогу применять навыки работы с данными для решения бизнес-задач и развиваться в продуктовой аналитике. Готов к гибридному формату или удалёнке.
+
+---
+
+## 📫 Контакты
+
+- **Email:** sergeychebotarev96@mail.ru  
+- **Telegram:** [@Pandaren4ik](https://t.me/Pandaren4ik)  
+- **GitHub:** [SadWeeek](https://github.com/SadWeeek)
+
+---
+
+*Спасибо за внимание! Буду рад предложениям и приглашениям на собеседования.*
