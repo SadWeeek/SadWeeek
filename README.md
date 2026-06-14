@@ -14,7 +14,7 @@
 |---------|-------------|
 | **Языки и анализ** | Python (pandas, matplotlib), SQL (оконные функции, CTE, JOIN) |
 | **Базы данных** | PostgreSQL, SQLite, DBeaver |
-| **BI и визуализация** | DataLens, Power BI, Excel (сводные таблицы, Power Query) |
+| **BI и визуализация** | DataLens, Superset, Power BI, Excel (сводные таблицы, Power Query) |
 | **Инструменты** | Git, Docker, Jupyter Notebook |
 | **Продуктовая аналитика** | метрики, когорты, воронки (теория), A/B тесты (базовое) |
 
