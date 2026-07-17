@@ -1,6 +1,6 @@
 # 👋 Привет, я Сергей Чеботарев
 
-**Junior Data Analyst** с опытом в VK и управлении розницей. Ищу позицию **junior-аналитика данных**.
+**Junior Data Analyst** с опытом в VK и управлении розницей.
 
 📌 **GitHub:** [SadWeeek](https://github.com/SadWeeek)  
 📧 **Email:** sergeychebotarev96@mail.ru  
